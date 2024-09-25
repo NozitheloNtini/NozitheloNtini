@@ -4,8 +4,8 @@
 
 🌟 **About Me:** I’m excited about the potential of data to influence decision-making and am committed to learning and mastering the skills necessary for effective data analysis.
 
-🔍 **Current Focus:** I’m starting with introductory SQL and gradually expanding my knowledge. My current studies include foundational SQL concepts, and I’m eager to dive into more advanced topics and tools as I progress.
+🔍 **Current Focus:** I’ve built a solid foundation in introductory SQL, and now I’m expanding my knowledge with more advanced concepts like joins and subqueries. My next steps include deepening my understanding of data manipulation and exploring visualization techniques.
 
-💡 **What I Do:** This portfolio showcases my learning journey and the projects I’m working on as I build my skills. Feel free to explore my work and connect with me if you have any questions or opportunities!
+💡 **What I Do:** This portfolio showcases my progress through various SQL projects that reflect what I’ve learned so far, including projects involving joins and subqueries. Feel free to explore my work and follow along as I continue to develop my skills. I'm always open to feedback, collaboration, or new opportunities!
 
 📫 **Connect With Me:** nozithelovntini@gmail.com
